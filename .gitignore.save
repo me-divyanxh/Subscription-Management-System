@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# React build
+sms-frontend/build/
+
+# SQLite database
+*.sqlite
+*.db
+
+# Mac system files
+.DS_Store
+
+
